@@ -1,0 +1,3 @@
+# RedmineToGooglespreadsheet
+
+GASでredmineチケットのインポート
